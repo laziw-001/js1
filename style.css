@@ -1,0 +1,22 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+button {
+	width: 150px;
+	height: 50px;
+	border-radius: 50px;
+	border: none;
+	text-align: center;
+	background-color: rgb(126, 116, 255);
+	color: white;
+	font-size: 18px;
+}
+div {
+	display: flex;
+	padding: 50px;
+	align-items: start;
+	justify-content: start;
+	height: 100vh;
+}
